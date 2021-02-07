@@ -1,0 +1,4 @@
+[submodule "Wolfrite.Core.wiki"]
+	path = Wolfrite.Core.wiki
+	url = https://github.com/Wolfrite-Minecraft/Wolfrite.Core.wiki.git
+	branch = master
